@@ -28,7 +28,6 @@ function setMoedaT() {
 	  moeda = "Thaisinhas";
 	  simboloMoeda = "T$";
 }
-<script id="1k7b2a">
 if (window.innerWidth > 768) {
   document.body.innerHTML = `
     <div style="
@@ -49,4 +48,3 @@ if (window.innerWidth > 768) {
     </div>
   `;
 }
-</script>
