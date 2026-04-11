@@ -28,3 +28,25 @@ function setMoedaT() {
 	  moeda = "Thaisinhas";
 	  simboloMoeda = "T$";
 }
+<script id="1k7b2a">
+if (window.innerWidth > 768) {
+  document.body.innerHTML = `
+    <div style="
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: black;
+      color: white;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 20px;
+    ">
+      <div>
+        <h1>📱 Apenas celular</h1>
+        <p>App bloqueado para computadores. Utilize uma resolução de 768px ou um telefone.</p>
+      </div>
+    </div>
+  `;
+}
+</script>
