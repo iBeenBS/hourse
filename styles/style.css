@@ -190,7 +190,8 @@ margin-top: 10px;
 .reveal.show {
 	opacity: 1;
 	transform: translateY(0);
-}*/
+}
+*/
 .choose-title {
   font-size: 10px;
   transform: translateY(-45px) translateX(50px);
@@ -854,7 +855,7 @@ body.shake {
 .form-wrapper iframe {
   width: 100%;
   height: 700px;        /* maior que o wrapper */
-  margin-top: -205px;   /* empurra pra esconder o topo */
+  margin-top: -225px;   /* empurra pra esconder o topo */
   border: none;
   z-index: 1000;
 }
