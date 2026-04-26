@@ -855,7 +855,7 @@ body.shake {
 .form-wrapper iframe {
   width: 100%;
   height: 700px;        /* maior que o wrapper */
-  margin-top: -225px;   /* empurra pra esconder o topo */
+  margin-top: -250px;   /* empurra pra esconder o topo */
   border: none;
   z-index: 1000;
 }
